@@ -1,6 +1,6 @@
 <img src="datto.jpg" alt="Datto - Calendar App"/>
 
-DATTO Calendar App is a simple yet powerful calendar application that allows users to manage your events efficiently. 
+DATTO Calendar App is a simple yet powerful calendar application that allows users to manage their events efficiently. 
 
 It comes in two versions: a command-line interface (CLI) and a graphical user interface (GUI) powered by Streamlit. 
 
